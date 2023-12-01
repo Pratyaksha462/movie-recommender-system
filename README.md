@@ -40,7 +40,7 @@ Welcome to our Movie Recommendation System, a cutting-edge application driven by
 
 ### Main Interface
 
-![Main Interface](ss1.png)
+ss1.png
 *This screenshot showcases the main interface of the application, providing an intuitive user experience for inputting movies.*
 
 ### Personalized Recommendations
